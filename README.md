@@ -129,6 +129,7 @@ Add custom tooltips
 Implement dynamic titles
 Integrate real-time data
 Publish to Power BI Service
+
 Author: Bhavitha Vari
 
 Feel free to connect for feedback, suggestions, or collaboration!
